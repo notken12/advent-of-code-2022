@@ -1,7 +1,6 @@
 use std::{fs::File, env, io::{self, BufRead}};
 
-#[derive(Debug)]
-#[derive(PartialEq)]
+#[derive(Debug, PartialEq, Clone)]
 enum Play {
     Rock,
     Paper,
@@ -33,6 +32,14 @@ impl Play {
             Self::Paper => Self::Rock,
         }
     }
+
+    fn beaten_by(&self) -> Self {
+        match self {
+            Self::Rock => Self::Paper,
+            Self::Scissors => Self::Rock,
+            Self::Paper => Self::Scissors,
+        }
+    }
 }
 
 fn main() {
@@ -48,7 +55,14 @@ fn main() {
     for line in lines {
         if let Ok(line) = line {
             let opponent_play = Play::from_str(line.get(0..1).unwrap()).unwrap();
-            let my_play = Play::from_str(line.get(2..3).unwrap()).unwrap();
+            let result_to_get = line.get(2..3).unwrap();
+
+            let my_play = match result_to_get {
+                "X" => opponent_play.beats(),
+                "Y" => opponent_play.clone(),
+                "Z" => opponent_play.beaten_by(),
+                &_ => panic!()
+            };
 
             let outcome_score = if opponent_play == my_play {
                 3
