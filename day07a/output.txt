@@ -1,0 +1,2396 @@
+Dir {
+    children: {
+        "/": Dir(
+            Dir {
+                children: {
+                    "qjphltd": Dir(
+                        Dir {
+                            children: {
+                                "fcqfgnvh": Dir(
+                                    Dir {
+                                        children: {
+                                            "nsdgz": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "mfprqmdp.pnl": File {
+                                                            size: 59406,
+                                                        },
+                                                        "cmfz": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "ncshvdst": File {
+                                                                        size: 37680,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    37680,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "fztsf.lvz": File {
+                                                            size: 116103,
+                                                        },
+                                                        "wlfprc": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "jcvqttf.fqz": File {
+                                                                        size: 273982,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    273982,
+                                                                ),
+                                                            },
+                                                        ),
+                                                    },
+                                                    size: Some(
+                                                        487171,
+                                                    ),
+                                                },
+                                            ),
+                                            "gbzslwz": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "njzvwjh": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "lvsjfvll.bfc": File {
+                                                                        size: 44070,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    44070,
+                                                                ),
+                                                            },
+                                                        ),
+                                                    },
+                                                    size: Some(
+                                                        44070,
+                                                    ),
+                                                },
+                                            ),
+                                            "vdpnmst.tbt": File {
+                                                size: 227183,
+                                            },
+                                            "pmswh.nbz": File {
+                                                size: 200981,
+                                            },
+                                            "gbbfpz.rjv": File {
+                                                size: 126854,
+                                            },
+                                            "tdqwszvc": File {
+                                                size: 45443,
+                                            },
+                                        },
+                                        size: Some(
+                                            1131702,
+                                        ),
+                                    },
+                                ),
+                                "hbzf.wgc": File {
+                                    size: 238098,
+                                },
+                                "dwhl": Dir(
+                                    Dir {
+                                        children: {
+                                            "zfrpc": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "cqv": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "vdpnmst": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "sfrlrc.jtj": File {
+                                                                                    size: 273024,
+                                                                                },
+                                                                                "qsvf": File {
+                                                                                    size: 170492,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                443516,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                },
+                                                                size: Some(
+                                                                    443516,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "llwsnsd": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "wblwwf": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "jcfss": File {
+                                                                                    size: 209990,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                209990,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "glhdqhf": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "pzll.cjc": File {
+                                                                                    size: 70524,
+                                                                                },
+                                                                                "wlfprc.bns": File {
+                                                                                    size: 29836,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                100360,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "zrjzmj": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "fwrpcrbg.pvg": File {
+                                                                                    size: 164830,
+                                                                                },
+                                                                                "vszfdj": File {
+                                                                                    size: 83144,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                247974,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "fvwwghsb.dll": File {
+                                                                        size: 179054,
+                                                                    },
+                                                                    "wlfprc": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "djqs.gqb": File {
+                                                                                    size: 97159,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                97159,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "dwhl.shp": File {
+                                                                        size: 42903,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    877440,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "qrmg": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "swjgs.glp": File {
+                                                                        size: 114620,
+                                                                    },
+                                                                    "tgptmhz.zch": File {
+                                                                        size: 269872,
+                                                                    },
+                                                                    "nsdgz.sjw": File {
+                                                                        size: 42025,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    426517,
+                                                                ),
+                                                            },
+                                                        ),
+                                                    },
+                                                    size: Some(
+                                                        1747473,
+                                                    ),
+                                                },
+                                            ),
+                                            "dwhl.vww": File {
+                                                size: 109566,
+                                            },
+                                            "sfsz": File {
+                                                size: 80828,
+                                            },
+                                            "jgzjzvh": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "chvtw": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "zmwmcgcr": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "wjq": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "rbg.plr": File {
+                                                                                                size: 121465,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            121465,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                            },
+                                                                            size: Some(
+                                                                                121465,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                },
+                                                                size: Some(
+                                                                    121465,
+                                                                ),
+                                                            },
+                                                        ),
+                                                    },
+                                                    size: Some(
+                                                        121465,
+                                                    ),
+                                                },
+                                            ),
+                                            "chvtw.bfz": File {
+                                                size: 197650,
+                                            },
+                                            "vdpnmst.fmz": File {
+                                                size: 154910,
+                                            },
+                                            "cgrdfzc": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "jqwgwcm": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "nsdgz.zdf": File {
+                                                                        size: 115858,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    115858,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "sztrgnwr.gqw": File {
+                                                            size: 72905,
+                                                        },
+                                                        "ffzd": File {
+                                                            size: 145237,
+                                                        },
+                                                        "vdpqccdl.ddc": File {
+                                                            size: 58294,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        392294,
+                                                    ),
+                                                },
+                                            ),
+                                        },
+                                        size: Some(
+                                            2804186,
+                                        ),
+                                    },
+                                ),
+                                "qtjcqtwt.vtn": File {
+                                    size: 147292,
+                                },
+                                "mfprqmdp.pnl": File {
+                                    size: 118907,
+                                },
+                                "ltm": Dir(
+                                    Dir {
+                                        children: {
+                                            "mfprqmdp.pnl": File {
+                                                size: 19761,
+                                            },
+                                        },
+                                        size: Some(
+                                            19761,
+                                        ),
+                                    },
+                                ),
+                                "nhmqcpdl": Dir(
+                                    Dir {
+                                        children: {
+                                            "nsdgz": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "crgzcmrt.jlr": File {
+                                                            size: 208378,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        208378,
+                                                    ),
+                                                },
+                                            ),
+                                            "dwhl": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "swjgs.glp": File {
+                                                            size: 253652,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        253652,
+                                                    ),
+                                                },
+                                            ),
+                                            "tgwtvm": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "jptp": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "chvtw.pgr": File {
+                                                                        size: 103248,
+                                                                    },
+                                                                    "pvz": File {
+                                                                        size: 65015,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    168263,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "qngflrgr": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "drfl.jfq": File {
+                                                                        size: 98041,
+                                                                    },
+                                                                    "jjzqzmm": File {
+                                                                        size: 238883,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    336924,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "qdjl": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "chvtw.rzd": File {
+                                                                        size: 149177,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    149177,
+                                                                ),
+                                                            },
+                                                        ),
+                                                    },
+                                                    size: Some(
+                                                        654364,
+                                                    ),
+                                                },
+                                            ),
+                                        },
+                                        size: Some(
+                                            1116394,
+                                        ),
+                                    },
+                                ),
+                                "chvtw": File {
+                                    size: 85066,
+                                },
+                                "mbbvp": Dir(
+                                    Dir {
+                                        children: {
+                                            "wnv.vps": File {
+                                                size: 12482,
+                                            },
+                                            "zlnlzzn": File {
+                                                size: 46227,
+                                            },
+                                        },
+                                        size: Some(
+                                            58709,
+                                        ),
+                                    },
+                                ),
+                                "mgnl": Dir(
+                                    Dir {
+                                        children: {
+                                            "hbbnwwh": File {
+                                                size: 115971,
+                                            },
+                                            "vfrbjgdm": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "lmprp": File {
+                                                            size: 204950,
+                                                        },
+                                                        "whd.qlv": File {
+                                                            size: 187795,
+                                                        },
+                                                        "nsdgz": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "cvvr": File {
+                                                                        size: 188613,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    188613,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "chvtw": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "vdfw": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "lmplrbzc": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "mmf": Dir(
+                                                                                                Dir {
+                                                                                                    children: {
+                                                                                                        "sfrlrc.jtj": File {
+                                                                                                            size: 127691,
+                                                                                                        },
+                                                                                                    },
+                                                                                                    size: Some(
+                                                                                                        127691,
+                                                                                                    ),
+                                                                                                },
+                                                                                            ),
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            127691,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "ttq": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "zhfg": Dir(
+                                                                                                Dir {
+                                                                                                    children: {
+                                                                                                        "wlfprc": Dir(
+                                                                                                            Dir {
+                                                                                                                children: {
+                                                                                                                    "dggm": Dir(
+                                                                                                                        Dir {
+                                                                                                                            children: {
+                                                                                                                                "chm": File {
+                                                                                                                                    size: 197043,
+                                                                                                                                },
+                                                                                                                            },
+                                                                                                                            size: Some(
+                                                                                                                                197043,
+                                                                                                                            ),
+                                                                                                                        },
+                                                                                                                    ),
+                                                                                                                    "mfprqmdp.pnl": File {
+                                                                                                                        size: 273082,
+                                                                                                                    },
+                                                                                                                },
+                                                                                                                size: Some(
+                                                                                                                    470125,
+                                                                                                                ),
+                                                                                                            },
+                                                                                                        ),
+                                                                                                    },
+                                                                                                    size: Some(
+                                                                                                        470125,
+                                                                                                    ),
+                                                                                                },
+                                                                                            ),
+                                                                                            "qwfvql": Dir(
+                                                                                                Dir {
+                                                                                                    children: {
+                                                                                                        "vdpnmst": File {
+                                                                                                            size: 276153,
+                                                                                                        },
+                                                                                                        "tbldv": Dir(
+                                                                                                            Dir {
+                                                                                                                children: {
+                                                                                                                    "wdbprnm": File {
+                                                                                                                        size: 218354,
+                                                                                                                    },
+                                                                                                                    "mfprqmdp.pnl": File {
+                                                                                                                        size: 65603,
+                                                                                                                    },
+                                                                                                                },
+                                                                                                                size: Some(
+                                                                                                                    283957,
+                                                                                                                ),
+                                                                                                            },
+                                                                                                        ),
+                                                                                                    },
+                                                                                                    size: Some(
+                                                                                                        560110,
+                                                                                                    ),
+                                                                                                },
+                                                                                            ),
+                                                                                            "rpgqwfb": File {
+                                                                                                size: 202107,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            1232342,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "ffsvhm": File {
+                                                                                    size: 77110,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                1437143,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "wlfprc.hbq": File {
+                                                                        size: 186283,
+                                                                    },
+                                                                    "mzmdjhjq": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "npllz.ltb": File {
+                                                                                    size: 85643,
+                                                                                },
+                                                                                "dwhl.dfd": File {
+                                                                                    size: 178012,
+                                                                                },
+                                                                                "nsdgz.ngz": File {
+                                                                                    size: 122027,
+                                                                                },
+                                                                                "mmmlqppm.hcz": File {
+                                                                                    size: 155247,
+                                                                                },
+                                                                                "wlfprc": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "rgsbqlw": File {
+                                                                                                size: 171189,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            171189,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "zrmt": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "dwhl": Dir(
+                                                                                                Dir {
+                                                                                                    children: {
+                                                                                                        "qbwm": File {
+                                                                                                            size: 75018,
+                                                                                                        },
+                                                                                                    },
+                                                                                                    size: Some(
+                                                                                                        75018,
+                                                                                                    ),
+                                                                                                },
+                                                                                            ),
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            75018,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                            },
+                                                                            size: Some(
+                                                                                787136,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "fvfmzg": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "ltzsj": File {
+                                                                                    size: 205962,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                205962,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "srdgnb.zbj": File {
+                                                                        size: 153152,
+                                                                    },
+                                                                    "wvgj": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "pcmbb.gwc": File {
+                                                                                    size: 163854,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                163854,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "bfwl": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "wlfprc": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "hsbg": Dir(
+                                                                                                Dir {
+                                                                                                    children: {
+                                                                                                        "cmdshfgh": File {
+                                                                                                            size: 191520,
+                                                                                                        },
+                                                                                                        "crgzcmrt.jlr": File {
+                                                                                                            size: 283887,
+                                                                                                        },
+                                                                                                        "dwhl": Dir(
+                                                                                                            Dir {
+                                                                                                                children: {
+                                                                                                                    "vdpnmst": File {
+                                                                                                                        size: 103303,
+                                                                                                                    },
+                                                                                                                },
+                                                                                                                size: Some(
+                                                                                                                    103303,
+                                                                                                                ),
+                                                                                                            },
+                                                                                                        ),
+                                                                                                    },
+                                                                                                    size: Some(
+                                                                                                        578710,
+                                                                                                    ),
+                                                                                                },
+                                                                                            ),
+                                                                                            "mgzvqhtr": Dir(
+                                                                                                Dir {
+                                                                                                    children: {
+                                                                                                        "dvlhwsj.gvl": File {
+                                                                                                            size: 159296,
+                                                                                                        },
+                                                                                                    },
+                                                                                                    size: Some(
+                                                                                                        159296,
+                                                                                                    ),
+                                                                                                },
+                                                                                            ),
+                                                                                            "wflghrq.lws": File {
+                                                                                                size: 88560,
+                                                                                            },
+                                                                                            "nbbdv": Dir(
+                                                                                                Dir {
+                                                                                                    children: {
+                                                                                                        "hnv": Dir(
+                                                                                                            Dir {
+                                                                                                                children: {
+                                                                                                                    "wlfprc": File {
+                                                                                                                        size: 138102,
+                                                                                                                    },
+                                                                                                                },
+                                                                                                                size: Some(
+                                                                                                                    138102,
+                                                                                                                ),
+                                                                                                            },
+                                                                                                        ),
+                                                                                                    },
+                                                                                                    size: Some(
+                                                                                                        138102,
+                                                                                                    ),
+                                                                                                },
+                                                                                            ),
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            964668,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "frrsl": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "btzft.qdc": File {
+                                                                                                size: 164016,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            164016,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "vnzvmpmg": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "hfnjf": Dir(
+                                                                                                Dir {
+                                                                                                    children: {
+                                                                                                        "dqts.pgp": File {
+                                                                                                            size: 267448,
+                                                                                                        },
+                                                                                                    },
+                                                                                                    size: Some(
+                                                                                                        267448,
+                                                                                                    ),
+                                                                                                },
+                                                                                            ),
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            267448,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "sch": File {
+                                                                                    size: 1168,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                1397300,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "stcfdsv.fjj": File {
+                                                                        size: 239385,
+                                                                    },
+                                                                    "vdpnmst": File {
+                                                                        size: 93411,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    4663626,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "jdzsng": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "dnzlvjr": File {
+                                                                        size: 48648,
+                                                                    },
+                                                                    "fnzfrtrp.bll": File {
+                                                                        size: 63253,
+                                                                    },
+                                                                    "zcgg.ldc": File {
+                                                                        size: 9962,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    121863,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "gvddj": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "vdpnmst": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "nwwhrf": File {
+                                                                                    size: 186159,
+                                                                                },
+                                                                                "dwhl": File {
+                                                                                    size: 36500,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                222659,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "zlh": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "chvtw.jgd": File {
+                                                                                    size: 245705,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                245705,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "cgbpbw": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "nhtz": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "cthbt.tjj": File {
+                                                                                                size: 196534,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            196534,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "bcbgqzj": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "vdpnmst.zvh": File {
+                                                                                                size: 199932,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            199932,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "nlnbr": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "wlfprc": File {
+                                                                                                size: 160988,
+                                                                                            },
+                                                                                            "lhzhvn": File {
+                                                                                                size: 75467,
+                                                                                            },
+                                                                                            "chvtw": Dir(
+                                                                                                Dir {
+                                                                                                    children: {
+                                                                                                        "sfrlrc.jtj": File {
+                                                                                                            size: 119163,
+                                                                                                        },
+                                                                                                        "srdgnb.zbj": File {
+                                                                                                            size: 226449,
+                                                                                                        },
+                                                                                                    },
+                                                                                                    size: Some(
+                                                                                                        345612,
+                                                                                                    ),
+                                                                                                },
+                                                                                            ),
+                                                                                            "dwhl": Dir(
+                                                                                                Dir {
+                                                                                                    children: {
+                                                                                                        "dwhl": Dir(
+                                                                                                            Dir {
+                                                                                                                children: {
+                                                                                                                    "ptssf": File {
+                                                                                                                        size: 283831,
+                                                                                                                    },
+                                                                                                                },
+                                                                                                                size: Some(
+                                                                                                                    283831,
+                                                                                                                ),
+                                                                                                            },
+                                                                                                        ),
+                                                                                                    },
+                                                                                                    size: Some(
+                                                                                                        283831,
+                                                                                                    ),
+                                                                                                },
+                                                                                            ),
+                                                                                            "ncmpwvrd": Dir(
+                                                                                                Dir {
+                                                                                                    children: {
+                                                                                                        "wlfprc.pds": File {
+                                                                                                            size: 142447,
+                                                                                                        },
+                                                                                                        "chvtw.hnh": File {
+                                                                                                            size: 169547,
+                                                                                                        },
+                                                                                                    },
+                                                                                                    size: Some(
+                                                                                                        311994,
+                                                                                                    ),
+                                                                                                },
+                                                                                            ),
+                                                                                            "vdpnmst": Dir(
+                                                                                                Dir {
+                                                                                                    children: {
+                                                                                                        "jslgmcp.mmz": File {
+                                                                                                            size: 276326,
+                                                                                                        },
+                                                                                                    },
+                                                                                                    size: Some(
+                                                                                                        276326,
+                                                                                                    ),
+                                                                                                },
+                                                                                            ),
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            1454218,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "dwhl": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "nsdgz.ttd": File {
+                                                                                                size: 116043,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            116043,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                            },
+                                                                            size: Some(
+                                                                                1966727,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "nsdgz.mzj": File {
+                                                                        size: 244373,
+                                                                    },
+                                                                    "wlfprc.nzd": File {
+                                                                        size: 247101,
+                                                                    },
+                                                                    "swjgs.glp": File {
+                                                                        size: 63755,
+                                                                    },
+                                                                    "chvtw.czc": File {
+                                                                        size: 24565,
+                                                                    },
+                                                                    "srdgnb.zbj": File {
+                                                                        size: 281443,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    3296328,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "cznw.mfc": File {
+                                                            size: 132015,
+                                                        },
+                                                        "fnw": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "dmcbshg": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "fsh": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "cgstfrbl": Dir(
+                                                                                                Dir {
+                                                                                                    children: {
+                                                                                                        "vdpnmst": File {
+                                                                                                            size: 227959,
+                                                                                                        },
+                                                                                                    },
+                                                                                                    size: Some(
+                                                                                                        227959,
+                                                                                                    ),
+                                                                                                },
+                                                                                            ),
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            227959,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                            },
+                                                                            size: Some(
+                                                                                227959,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "mdvt": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "pwrvqrjc": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "jzhvzrnv": File {
+                                                                                                size: 173816,
+                                                                                            },
+                                                                                            "crgzcmrt.jlr": File {
+                                                                                                size: 40460,
+                                                                                            },
+                                                                                            "swjgs.glp": File {
+                                                                                                size: 56851,
+                                                                                            },
+                                                                                            "wlfprc.cvr": File {
+                                                                                                size: 218509,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            489636,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "mts": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "mfprqmdp.pnl": File {
+                                                                                                size: 242122,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            242122,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "qwrh": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "lzwbvw.zvf": File {
+                                                                                                size: 240079,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            240079,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "sfrlrc.jtj": File {
+                                                                                    size: 52239,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                1024076,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "bjnn.mqc": File {
+                                                                        size: 84321,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    1336356,
+                                                                ),
+                                                            },
+                                                        ),
+                                                    },
+                                                    size: Some(
+                                                        10131546,
+                                                    ),
+                                                },
+                                            ),
+                                            "mfprqmdp.pnl": File {
+                                                size: 33819,
+                                            },
+                                            "bpc": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "wlfprc.dvf": File {
+                                                            size: 182938,
+                                                        },
+                                                        "vdpnmst.lnb": File {
+                                                            size: 186706,
+                                                        },
+                                                        "dzlv": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "vdpnmst.dtl": File {
+                                                                        size: 140503,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    140503,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "sfrlrc.jtj": File {
+                                                            size: 48753,
+                                                        },
+                                                        "pds": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "svq.gmz": File {
+                                                                        size: 174820,
+                                                                    },
+                                                                    "zhpcdqnr.pmf": File {
+                                                                        size: 133508,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    308328,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "gmp.fdd": File {
+                                                            size: 119367,
+                                                        },
+                                                        "chvtw": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "sfrlrc.jtj": File {
+                                                                        size: 29411,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    29411,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "dwhl.ftj": File {
+                                                            size: 63061,
+                                                        },
+                                                        "hdvdfnw": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "mnl.scm": File {
+                                                                        size: 231528,
+                                                                    },
+                                                                    "hsjb": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "swjgs.glp": File {
+                                                                                    size: 204248,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                204248,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "crgzcmrt.jlr": File {
+                                                                        size: 36521,
+                                                                    },
+                                                                    "pczq": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "qzwd.tfn": File {
+                                                                                    size: 18842,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                18842,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                },
+                                                                size: Some(
+                                                                    491139,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "nsdgz": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "pgbvnv": File {
+                                                                        size: 71032,
+                                                                    },
+                                                                    "bpgdn": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "wlfprc": File {
+                                                                                    size: 54889,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                54889,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "rll": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "shgfznp": File {
+                                                                                    size: 135900,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                135900,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "wlfprc": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "vdld.ndv": File {
+                                                                                    size: 114072,
+                                                                                },
+                                                                                "vddtj.jrh": File {
+                                                                                    size: 160547,
+                                                                                },
+                                                                                "dwhl": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "nvptwfp.qhh": File {
+                                                                                                size: 9122,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            9122,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "wlfprc.lgg": File {
+                                                                                    size: 258527,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                542268,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "nsdgz.vqs": File {
+                                                                        size: 106092,
+                                                                    },
+                                                                    "pthbb.znn": File {
+                                                                        size: 47006,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    957187,
+                                                                ),
+                                                            },
+                                                        ),
+                                                    },
+                                                    size: Some(
+                                                        2527393,
+                                                    ),
+                                                },
+                                            ),
+                                            "qwjp": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "nsdgz": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "chvtw.gzr": File {
+                                                                        size: 273767,
+                                                                    },
+                                                                    "pww.qgb": File {
+                                                                        size: 244356,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    518123,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "gwwrhjh": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "lvnsvm": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "tdrrztrn.rfb": File {
+                                                                                    size: 191751,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                191751,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                },
+                                                                size: Some(
+                                                                    191751,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "vdpnmst.qgj": File {
+                                                            size: 252980,
+                                                        },
+                                                        "mfprqmdp.pnl": File {
+                                                            size: 232315,
+                                                        },
+                                                        "crzqrz": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "srdgnb.zbj": File {
+                                                                        size: 202759,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    202759,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "qfsds.rhh": File {
+                                                            size: 248778,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        1646706,
+                                                    ),
+                                                },
+                                            ),
+                                            "tmhp.jst": File {
+                                                size: 107343,
+                                            },
+                                            "nnbjb": File {
+                                                size: 218670,
+                                            },
+                                            "ztpggl": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "vqm.zdj": File {
+                                                            size: 236782,
+                                                        },
+                                                        "vdpnmst": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "crgzcmrt.jlr": File {
+                                                                        size: 143090,
+                                                                    },
+                                                                    "mfprqmdp.pnl": File {
+                                                                        size: 242681,
+                                                                    },
+                                                                    "vdpnmst": File {
+                                                                        size: 146639,
+                                                                    },
+                                                                    "vdpnmst.flr": File {
+                                                                        size: 63563,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    595973,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "vbrtv": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "rswctm": File {
+                                                                        size: 35655,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    35655,
+                                                                ),
+                                                            },
+                                                        ),
+                                                    },
+                                                    size: Some(
+                                                        868410,
+                                                    ),
+                                                },
+                                            ),
+                                            "dwhl": File {
+                                                size: 240396,
+                                            },
+                                            "chvtw": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "vhspmg": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "flzpg": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "sdtgsjsd": File {
+                                                                                    size: 205811,
+                                                                                },
+                                                                                "zbmsmzq.wwt": File {
+                                                                                    size: 262847,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                468658,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                },
+                                                                size: Some(
+                                                                    468658,
+                                                                ),
+                                                            },
+                                                        ),
+                                                    },
+                                                    size: Some(
+                                                        468658,
+                                                    ),
+                                                },
+                                            ),
+                                        },
+                                        size: Some(
+                                            16358912,
+                                        ),
+                                    },
+                                ),
+                                "tvplqllb": Dir(
+                                    Dir {
+                                        children: {
+                                            "ftwz.fzj": File {
+                                                size: 84875,
+                                            },
+                                            "wdgzsg": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "wlfprc": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "cjbjffhs.rlc": File {
+                                                                        size: 180812,
+                                                                    },
+                                                                    "vql.lww": File {
+                                                                        size: 229144,
+                                                                    },
+                                                                    "wlfprc.ghn": File {
+                                                                        size: 210367,
+                                                                    },
+                                                                    "rvgrjsps": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "wrlzz.nwn": File {
+                                                                                    size: 62849,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                62849,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "dwhl": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "sbrdjv.cdt": File {
+                                                                                    size: 220631,
+                                                                                },
+                                                                                "swjgs.glp": File {
+                                                                                    size: 24851,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                245482,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                },
+                                                                size: Some(
+                                                                    928654,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "mfprqmdp.pnl": File {
+                                                            size: 17755,
+                                                        },
+                                                        "fqzjpnfb.lmd": File {
+                                                            size: 191060,
+                                                        },
+                                                        "wfmttzc.cdb": File {
+                                                            size: 204706,
+                                                        },
+                                                        "jzhvmj": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "dnqs": File {
+                                                                        size: 2388,
+                                                                    },
+                                                                    "sfrlrc.jtj": File {
+                                                                        size: 249647,
+                                                                    },
+                                                                    "wlfprc": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "mfprqmdp.pnl": File {
+                                                                                    size: 179811,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                179811,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "vcn": File {
+                                                                        size: 276429,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    708275,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "chvtw.lpr": File {
+                                                            size: 209123,
+                                                        },
+                                                        "gbcqgszh": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "crgzcmrt.jlr": File {
+                                                                        size: 263162,
+                                                                    },
+                                                                    "rddzmchb.fwr": File {
+                                                                        size: 277604,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    540766,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "mvvltrs": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "wjl": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "swjgs.glp": File {
+                                                                                    size: 49897,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                49897,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "ddsjsbp": File {
+                                                                        size: 86479,
+                                                                    },
+                                                                    "dqvlqnn": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "chvtw.wcd": File {
+                                                                                    size: 42736,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                42736,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "srdgnb.zbj": File {
+                                                                        size: 227156,
+                                                                    },
+                                                                    "wlfprc": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "zffqnb.plq": File {
+                                                                                    size: 222869,
+                                                                                },
+                                                                                "chvtw": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "mfprqmdp.pnl": File {
+                                                                                                size: 84667,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            84667,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                            },
+                                                                            size: Some(
+                                                                                307536,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "crgzcmrt.jlr": File {
+                                                                        size: 41358,
+                                                                    },
+                                                                    "chvtw": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "crgzcmrt.jlr": File {
+                                                                                    size: 61085,
+                                                                                },
+                                                                                "rbnvsbm": File {
+                                                                                    size: 72256,
+                                                                                },
+                                                                                "wmwnpf": File {
+                                                                                    size: 154180,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                287521,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "thwdjln": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "pdsgj.tvr": File {
+                                                                                    size: 51273,
+                                                                                },
+                                                                                "hdjvgpr": File {
+                                                                                    size: 114664,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                165937,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "bzq": File {
+                                                                        size: 171792,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    1380412,
+                                                                ),
+                                                            },
+                                                        ),
+                                                    },
+                                                    size: Some(
+                                                        4180751,
+                                                    ),
+                                                },
+                                            ),
+                                            "dwhl": File {
+                                                size: 91988,
+                                            },
+                                            "chvtw.mdn": File {
+                                                size: 107011,
+                                            },
+                                            "hpfr": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "qpl.qtm": File {
+                                                            size: 174858,
+                                                        },
+                                                        "bbgbnr": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "chvtw": File {
+                                                                        size: 139093,
+                                                                    },
+                                                                    "crgzcmrt.jlr": File {
+                                                                        size: 21309,
+                                                                    },
+                                                                    "srdgnb.zbj": File {
+                                                                        size: 129496,
+                                                                    },
+                                                                    "qqt.mvb": File {
+                                                                        size: 22977,
+                                                                    },
+                                                                    "nsjfgmrs": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "ppwm": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "ssl.fnd": File {
+                                                                                                size: 161664,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            161664,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "tvsqvsrf.plp": File {
+                                                                                    size: 167856,
+                                                                                },
+                                                                                "vztfzgrd": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "fwjrgdbb": File {
+                                                                                                size: 213100,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            213100,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                            },
+                                                                            size: Some(
+                                                                                542620,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                },
+                                                                size: Some(
+                                                                    855495,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "dwhl": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "gtmgtq": File {
+                                                                        size: 124522,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    124522,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "wlfprc": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "mfprqmdp.pnl": File {
+                                                                        size: 143769,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    143769,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "fdpg": File {
+                                                            size: 131524,
+                                                        },
+                                                        "mfprqmdp.pnl": File {
+                                                            size: 250910,
+                                                        },
+                                                        "jvddlfsf": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "zpcc.wzt": File {
+                                                                        size: 78145,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    78145,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "sjncl.cjb": File {
+                                                            size: 271840,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        2031063,
+                                                    ),
+                                                },
+                                            ),
+                                        },
+                                        size: Some(
+                                            6495688,
+                                        ),
+                                    },
+                                ),
+                            },
+                            size: Some(
+                                28574715,
+                            ),
+                        },
+                    ),
+                    "dwhl.nrn": File {
+                        size: 240038,
+                    },
+                    "jbgpgvj": Dir(
+                        Dir {
+                            children: {
+                                "crgzcmrt.jlr": File {
+                                    size: 121937,
+                                },
+                            },
+                            size: Some(
+                                121937,
+                            ),
+                        },
+                    ),
+                    "dwhl.vvb": File {
+                        size: 124868,
+                    },
+                    "wlfprc": Dir(
+                        Dir {
+                            children: {
+                                "mssqb.gwc": File {
+                                    size: 222226,
+                                },
+                                "zjttbct.rft": File {
+                                    size: 54178,
+                                },
+                                "chvtw.vvq": File {
+                                    size: 88598,
+                                },
+                            },
+                            size: Some(
+                                365002,
+                            ),
+                        },
+                    ),
+                    "zqvh": Dir(
+                        Dir {
+                            children: {
+                                "wmswcs.wcd": File {
+                                    size: 124084,
+                                },
+                            },
+                            size: Some(
+                                124084,
+                            ),
+                        },
+                    ),
+                    "chvtw.czb": File {
+                        size: 53302,
+                    },
+                    "zzmgz": Dir(
+                        Dir {
+                            children: {
+                                "bbttfvt": File {
+                                    size: 143006,
+                                },
+                                "vdpnmst": Dir(
+                                    Dir {
+                                        children: {
+                                            "wlfprc.vqs": File {
+                                                size: 26253,
+                                            },
+                                            "dwhl": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "vlhhrq.zld": File {
+                                                            size: 32915,
+                                                        },
+                                                        "lpdfsdb.cgj": File {
+                                                            size: 46475,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        79390,
+                                                    ),
+                                                },
+                                            ),
+                                            "chvtw": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "vdpnmst.wfl": File {
+                                                            size: 183900,
+                                                        },
+                                                        "chvtw.tmb": File {
+                                                            size: 57311,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        241211,
+                                                    ),
+                                                },
+                                            ),
+                                            "lwbqctd": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "zhzrhzcv": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "gtmphbt": File {
+                                                                        size: 270185,
+                                                                    },
+                                                                    "dhcfzq": File {
+                                                                        size: 119179,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    389364,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "dbfbfjjw": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "mfprqmdp.pnl": File {
+                                                                        size: 29216,
+                                                                    },
+                                                                    "vhvbcmlh.wdf": File {
+                                                                        size: 17937,
+                                                                    },
+                                                                    "vqzhr.bsl": File {
+                                                                        size: 87790,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    134943,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "qbn": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "bdg": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "phvf": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "vdpnmst": File {
+                                                                                                size: 43516,
+                                                                                            },
+                                                                                            "dqbjm": Dir(
+                                                                                                Dir {
+                                                                                                    children: {
+                                                                                                        "lvdwvp.mjp": File {
+                                                                                                            size: 180654,
+                                                                                                        },
+                                                                                                    },
+                                                                                                    size: Some(
+                                                                                                        180654,
+                                                                                                    ),
+                                                                                                },
+                                                                                            ),
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            224170,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                                "crgzcmrt.jlr": File {
+                                                                                    size: 103738,
+                                                                                },
+                                                                                "dwhl.gmw": File {
+                                                                                    size: 179430,
+                                                                                },
+                                                                                "dwhl.ztl": File {
+                                                                                    size: 118482,
+                                                                                },
+                                                                                "zzjwzlrn": File {
+                                                                                    size: 264818,
+                                                                                },
+                                                                                "gmlqjh": Dir(
+                                                                                    Dir {
+                                                                                        children: {
+                                                                                            "wlfprc.rmt": File {
+                                                                                                size: 116934,
+                                                                                            },
+                                                                                        },
+                                                                                        size: Some(
+                                                                                            116934,
+                                                                                        ),
+                                                                                    },
+                                                                                ),
+                                                                            },
+                                                                            size: Some(
+                                                                                1007572,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "mbzc.qbv": File {
+                                                                        size: 79958,
+                                                                    },
+                                                                    "nsdgz": File {
+                                                                        size: 218421,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    1305951,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "qqqfdrst": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "nsdgz.bmt": File {
+                                                                        size: 58625,
+                                                                    },
+                                                                    "sfrlrc.jtj": File {
+                                                                        size: 33328,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    91953,
+                                                                ),
+                                                            },
+                                                        ),
+                                                    },
+                                                    size: Some(
+                                                        1922211,
+                                                    ),
+                                                },
+                                            ),
+                                            "wlfprc": File {
+                                                size: 140212,
+                                            },
+                                            "swjgs.glp": File {
+                                                size: 203538,
+                                            },
+                                            "crgzcmrt.jlr": File {
+                                                size: 107664,
+                                            },
+                                            "dmp.hqm": File {
+                                                size: 175290,
+                                            },
+                                            "jtbh": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "chvtw.tmh": File {
+                                                            size: 255372,
+                                                        },
+                                                        "gndwds.mzn": File {
+                                                            size: 149848,
+                                                        },
+                                                        "wlfprc.ghc": File {
+                                                            size: 273202,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        678422,
+                                                    ),
+                                                },
+                                            ),
+                                            "vdpnmst": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "swjgs.glp": File {
+                                                            size: 134253,
+                                                        },
+                                                        "chvtw": File {
+                                                            size: 180546,
+                                                        },
+                                                        "htgbz": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "nsdgz.vlj": File {
+                                                                        size: 75079,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    75079,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "lwdm.snh": File {
+                                                            size: 133410,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        523288,
+                                                    ),
+                                                },
+                                            ),
+                                        },
+                                        size: Some(
+                                            4097479,
+                                        ),
+                                    },
+                                ),
+                            },
+                            size: Some(
+                                4240485,
+                            ),
+                        },
+                    ),
+                    "fml": Dir(
+                        Dir {
+                            children: {
+                                "lwpbbb": Dir(
+                                    Dir {
+                                        children: {
+                                            "chvtw": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "mfprqmdp.pnl": File {
+                                                            size: 67998,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        67998,
+                                                    ),
+                                                },
+                                            ),
+                                            "dtgbns.jfw": File {
+                                                size: 88879,
+                                            },
+                                            "fgfm": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "mfprqmdp.pnl": File {
+                                                            size: 85968,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        85968,
+                                                    ),
+                                                },
+                                            ),
+                                            "nsdgz": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "pfwzjm.wbv": File {
+                                                            size: 171874,
+                                                        },
+                                                        "vdpnmst.wjm": File {
+                                                            size: 110070,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        281944,
+                                                    ),
+                                                },
+                                            ),
+                                            "wlfprc.bhp": File {
+                                                size: 216019,
+                                            },
+                                        },
+                                        size: Some(
+                                            740808,
+                                        ),
+                                    },
+                                ),
+                                "crgzcmrt.jlr": File {
+                                    size: 176916,
+                                },
+                                "nsdgz": Dir(
+                                    Dir {
+                                        children: {
+                                            "dwhl.clh": File {
+                                                size: 33973,
+                                            },
+                                            "rdcmr": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "ndwd.drq": File {
+                                                            size: 116617,
+                                                        },
+                                                        "crgzcmrt.jlr": File {
+                                                            size: 215436,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        332053,
+                                                    ),
+                                                },
+                                            ),
+                                            "cqwh": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "sqg.dpb": File {
+                                                            size: 145468,
+                                                        },
+                                                        "dwhl": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "hhflcsql.pns": File {
+                                                                        size: 23657,
+                                                                    },
+                                                                    "mwbgzn.fpn": File {
+                                                                        size: 241753,
+                                                                    },
+                                                                    "srdgnb.zbj": File {
+                                                                        size: 247935,
+                                                                    },
+                                                                    "hfhlcjp.mtn": File {
+                                                                        size: 51966,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    565311,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "wvqphtff.stc": File {
+                                                            size: 199052,
+                                                        },
+                                                        "nwjds": File {
+                                                            size: 123921,
+                                                        },
+                                                        "nsdgz.fcc": File {
+                                                            size: 203595,
+                                                        },
+                                                        "bbpbg.sch": File {
+                                                            size: 220212,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        1457559,
+                                                    ),
+                                                },
+                                            ),
+                                            "stqhwh": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "cfmcj.plz": File {
+                                                            size: 28083,
+                                                        },
+                                                        "vdpnmst.mcb": File {
+                                                            size: 219525,
+                                                        },
+                                                        "twfztmq": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "mbsrnbww": File {
+                                                                        size: 231371,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    231371,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "chvtw": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "lspn": File {
+                                                                        size: 120506,
+                                                                    },
+                                                                    "mfprqmdp.pnl": File {
+                                                                        size: 214538,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    335044,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "hwf.wzr": File {
+                                                            size: 229939,
+                                                        },
+                                                        "wlfprc": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "dncq": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "swjgs.glp": File {
+                                                                                    size: 40876,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                40876,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                    "fmqzns": Dir(
+                                                                        Dir {
+                                                                            children: {
+                                                                                "chvtw.bhw": File {
+                                                                                    size: 23604,
+                                                                                },
+                                                                            },
+                                                                            size: Some(
+                                                                                23604,
+                                                                            ),
+                                                                        },
+                                                                    ),
+                                                                },
+                                                                size: Some(
+                                                                    64480,
+                                                                ),
+                                                            },
+                                                        ),
+                                                    },
+                                                    size: Some(
+                                                        1108442,
+                                                    ),
+                                                },
+                                            ),
+                                            "vdpnmst.wqp": File {
+                                                size: 24695,
+                                            },
+                                            "wlfprc.dcf": File {
+                                                size: 222421,
+                                            },
+                                            "zfq": File {
+                                                size: 225333,
+                                            },
+                                            "sfrlrc.jtj": File {
+                                                size: 140633,
+                                            },
+                                        },
+                                        size: Some(
+                                            3545109,
+                                        ),
+                                    },
+                                ),
+                                "bztjtqg": Dir(
+                                    Dir {
+                                        children: {
+                                            "qlsr": File {
+                                                size: 105281,
+                                            },
+                                            "lwtrqrqq": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "swjgs.glp": File {
+                                                            size: 224392,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        224392,
+                                                    ),
+                                                },
+                                            ),
+                                            "dwhl": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "wlfprc": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "swjgs.glp": File {
+                                                                        size: 180121,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    180121,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "qmdjhrsg": File {
+                                                            size: 42601,
+                                                        },
+                                                        "rnmsmcqn.cwf": File {
+                                                            size: 68484,
+                                                        },
+                                                        "fqdzv": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "mfprqmdp.pnl": File {
+                                                                        size: 140953,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    140953,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "mmrplb.ncb": File {
+                                                            size: 198583,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        630742,
+                                                    ),
+                                                },
+                                            ),
+                                            "nsdgz": Dir(
+                                                Dir {
+                                                    children: {
+                                                        "chvtw.wzb": File {
+                                                            size: 5704,
+                                                        },
+                                                        "pltnst.mnt": File {
+                                                            size: 192803,
+                                                        },
+                                                        "qzdb": Dir(
+                                                            Dir {
+                                                                children: {
+                                                                    "jcjcv": File {
+                                                                        size: 171982,
+                                                                    },
+                                                                    "tfr.hlv": File {
+                                                                        size: 125788,
+                                                                    },
+                                                                },
+                                                                size: Some(
+                                                                    297770,
+                                                                ),
+                                                            },
+                                                        ),
+                                                        "pst.njs": File {
+                                                            size: 265646,
+                                                        },
+                                                        "gppbtqsw.mrr": File {
+                                                            size: 158254,
+                                                        },
+                                                    },
+                                                    size: Some(
+                                                        920177,
+                                                    ),
+                                                },
+                                            ),
+                                        },
+                                        size: Some(
+                                            1880592,
+                                        ),
+                                    },
+                                ),
+                                "sfrlrc.jtj": File {
+                                    size: 186077,
+                                },
+                                "gpnmqlr.rdb": File {
+                                    size: 199024,
+                                },
+                            },
+                            size: Some(
+                                6728526,
+                            ),
+                        },
+                    ),
+                },
+                size: Some(
+                    40572957,
+                ),
+            },
+        ),
+    },
+    size: None,
+}

@@ -1,10 +1,12 @@
 use std::collections::HashMap;
 
+#[derive(Debug)]
 struct Dir {
     children: HashMap<String, DirEntry>,
     size: Option<u32>,
 }
 
+#[derive(Debug)]
 enum DirEntry {
     Dir(Dir),
     File { size: u32 },
@@ -73,6 +75,10 @@ fn main() {
             }
         }
     }
+
+    calc_dir_sizes_up(&cwd, &mut fs);
+
+    println!("{:#?}", fs);
 }
 
 fn get_cwd_dir<'a>(cwd: &'a Vec<String>, fs: &'a mut Dir) -> &'a mut Dir {
@@ -119,11 +125,11 @@ fn calc_dir_sizes_up(cwd: &Vec<String>, fs: &mut Dir) {
                 }
             })
             .sum();
-        let mut upper_dir = cwd.clone();
-        upper_dir.pop();
-        get_cwd_dir(&upper_dir, fs).size = Some(sum);
+        get_cwd_dir(&cwd, fs).size = Some(sum);
 
         // Recurse, crawl up the tree
+        let mut upper_dir = cwd.clone();
+        upper_dir.pop();
         calc_dir_sizes_up(&upper_dir, fs);
     }
     // End recursion
