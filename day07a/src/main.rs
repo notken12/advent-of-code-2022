@@ -33,6 +33,8 @@ fn main() {
     );
     let mut cwd: Vec<String> = Vec::new();
 
+    let mut desired_sum = 0;
+
     for line in lines {
         if let Ok(line) = line {
             let line = line.trim();
@@ -40,7 +42,7 @@ fn main() {
             if line.starts_with("$ cd") {
                 // Walk back up tree and calculate dir sizes
                 // if cwd has all sizes present
-                calc_dir_sizes_up(&cwd, &mut fs);
+                calc_dir_sizes_up(&cwd, &mut fs, &mut desired_sum);
 
                 let arg = line.get(5..).unwrap();
                 if arg == ".." {
@@ -76,9 +78,9 @@ fn main() {
         }
     }
 
-    calc_dir_sizes_up(&cwd, &mut fs);
+    calc_dir_sizes_up(&cwd, &mut fs, &mut desired_sum);
 
-    println!("{:#?}", fs);
+    println!("{}", desired_sum);
 }
 
 fn get_cwd_dir<'a>(cwd: &'a Vec<String>, fs: &'a mut Dir) -> &'a mut Dir {
@@ -101,7 +103,7 @@ fn get_cwd_dir<'a>(cwd: &'a Vec<String>, fs: &'a mut Dir) -> &'a mut Dir {
     }
 }
 
-fn calc_dir_sizes_up(cwd: &Vec<String>, fs: &mut Dir) {
+fn calc_dir_sizes_up(cwd: &Vec<String>, fs: &mut Dir, desired_sum: &mut u32) {
     if cwd.len() == 0 {
         return;
     }
@@ -125,12 +127,18 @@ fn calc_dir_sizes_up(cwd: &Vec<String>, fs: &mut Dir) {
                 }
             })
             .sum();
-        get_cwd_dir(&cwd, fs).size = Some(sum);
 
+        let cwd_dir = get_cwd_dir(&cwd, fs);
+        if let None = cwd_dir.size {
+            cwd_dir.size = Some(sum);
+            if sum <= 100000 {
+                *desired_sum += sum;
+            }
+        }
         // Recurse, crawl up the tree
         let mut upper_dir = cwd.clone();
         upper_dir.pop();
-        calc_dir_sizes_up(&upper_dir, fs);
+        calc_dir_sizes_up(&upper_dir, fs, desired_sum)
     }
     // End recursion
 }
