@@ -3,7 +3,7 @@ struct Tree {
     height: i8,
 }
 
-const DIRECTIONS: [(isize, isize); 4] = [(1, 1), (1, -1), (-1, 1), (-1, -1)];
+const DIRECTIONS: [(isize, isize); 4] = [(0, 1), (0, -1), (1, 0), (-1, 0)];
 
 fn main() {
     let args: Vec<String> = std::env::args().collect();
@@ -38,7 +38,10 @@ fn main() {
         for col in 0..size {
             let mut visibility = 1;
             for dir in DIRECTIONS {
-                visibility *= check_visible(&mut grid, size, dir.0, dir.1, row, col);
+                let visible = check_visible(&mut grid, size, dir.0, dir.1, row, col);
+                if visible > 0 {
+                    visibility *= visible;
+                }
             }
             if visibility > max_visibility {
                 max_visibility = visibility;
