@@ -5,6 +5,7 @@ struct Monkey {
     test_divisible_by: u32,
     if_true: usize,
     if_false: usize,
+    inspected_amount: u32,
 }
 
 #[derive(Clone, Debug)]
@@ -40,6 +41,7 @@ fn main() {
                     test_divisible_by,
                     if_true,
                     if_false,
+                    inspected_amount: 0,
                 });
                 continue;
             }
@@ -81,23 +83,45 @@ fn main() {
             }
         }
     }
+    monkeys.push(Monkey {
+        items: starting_items.clone(),
+        operation: current_operation.clone(),
+        test_divisible_by,
+        if_true,
+        if_false,
+        inspected_amount: 0,
+    });
 
     for _round in 0..20 {
-        for monkey in &mut monkeys {
-            for i in 0..monkey.items.len() {
-                let item = &mut monkey.items[i];
-                match monkey.operation {
-                    Operation::Square => *item *= *item,
-                    Operation::Plus { amount } => *item += amount,
-                    Operation::Times { amount } => *item *= amount,
-                }
-                if *item % monkey.test_divisible_by == 0 {
-                    monkey.items.remove(i);
+        for m in 0..monkeys.len() {
+            let i = 0;
+            while monkeys[m].items.len() > 0 {
+                monkeys[m].items[i] = match monkeys[m].operation {
+                    Operation::Square => monkeys[m].items[i] * monkeys[m].items[i],
+                    Operation::Plus { amount } => monkeys[m].items[i] + amount,
+                    Operation::Times { amount } => monkeys[m].items[i] * amount,
+                };
+                monkeys[m].items[i] /= 3;
+
+                let tossed = monkeys[m].items.remove(i);
+
+                monkeys[m].inspected_amount += 1;
+
+                let toss_to = if tossed % monkeys[m].test_divisible_by == 0 {
                     // Toss to other monkey
-                }
+                    monkeys[m].if_true
+                } else {
+                    monkeys[m].if_false
+                };
+                monkeys[toss_to].items.push(tossed);
             }
         }
     }
 
-    println!("{:#?}", monkeys);
+    monkeys.sort_by_key(|m| m.inspected_amount);
+
+    let answer =
+        monkeys[monkeys.len() - 1].inspected_amount * monkeys[monkeys.len() - 2].inspected_amount;
+
+    println!("{:#?}", answer);
 }
