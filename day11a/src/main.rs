@@ -82,5 +82,22 @@ fn main() {
         }
     }
 
+    for _round in 0..20 {
+        for monkey in &mut monkeys {
+            for i in 0..monkey.items.len() {
+                let item = &mut monkey.items[i];
+                match monkey.operation {
+                    Operation::Square => *item *= *item,
+                    Operation::Plus { amount } => *item += amount,
+                    Operation::Times { amount } => *item *= amount,
+                }
+                if *item % monkey.test_divisible_by == 0 {
+                    monkey.items.remove(i);
+                    // Toss to other monkey
+                }
+            }
+        }
+    }
+
     println!("{:#?}", monkeys);
 }
