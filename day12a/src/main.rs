@@ -31,14 +31,14 @@ fn main() {
             for c in line.chars() {
                 if c == 'S' {
                     start_location = Point { row, col };
-                    // map[row].push('a' as u8 - 97);
+                    map[row].push('a' as u8 - 97);
                 } else if c == 'E' {
                     end_location = Point { row, col };
-                    // map[row].push('z' as u8 - 97);
+                    map[row].push('z' as u8 - 97);
                 } else {
-                    // map[row].push(c as u8 - 97);
+                    map[row].push(c as u8 - 97);
                 }
-                map[row].push(0);
+                // map[row].push(0);
                 col += 1;
             }
             row += 1;
@@ -81,7 +81,7 @@ fn main() {
         println!();
     }
 
-    // println!("{:#?}", answer);
+    println!("{}", answer.len() - 1);
 }
 
 #[derive(Eq, PartialEq, Clone, Debug)]
