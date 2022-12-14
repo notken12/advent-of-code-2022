@@ -1,5 +1,4 @@
 use std::{
-    cmp::Reverse,
     collections::{BinaryHeap, HashMap},
 };
 
@@ -18,7 +17,6 @@ fn main() {
     let lines = std::io::BufRead::lines(std::io::BufReader::new(file));
 
     let mut map: Vec<Vec<u8>> = Vec::new();
-    let mut start_location = Point { row: 0, col: 0 };
     let mut end_location = Point { row: 0, col: 0 };
 
     let mut row = 0;
@@ -30,7 +28,6 @@ fn main() {
             let mut col = 0;
             for c in line.chars() {
                 if c == 'S' {
-                    start_location = Point { row, col };
                     map[row].push('a' as u8 - 97);
                 } else if c == 'E' {
                     end_location = Point { row, col };
