@@ -77,22 +77,37 @@ fn main() {
         let down = (x, y + 1);
         let downleft = (x - 1, y + 1);
         let downright = (x + 1, y + 1);
-        if let None = grid.get(&down) {
-            move_grain(&mut sand_grain, &mut grid, down);
-        } else if let None = grid.get(&downleft) {
-            move_grain(&mut sand_grain, &mut grid, downleft);
-        } else if let None = grid.get(&downright) {
-            move_grain(&mut sand_grain, &mut grid, downright);
-        } else {
+
+        if y + 1 == max_y + 2 {
+            // On infinite floor
+            // Sand comes to rest
             sand_grain = sand_source;
+            grid.insert(sand_grain, Cell::Sand);
             answer += 1;
+        } else {
+            if let None = grid.get(&down) {
+                move_grain(&mut sand_grain, &mut grid, down);
+            } else if let None = grid.get(&downleft) {
+                move_grain(&mut sand_grain, &mut grid, downleft);
+            } else if let None = grid.get(&downright) {
+                move_grain(&mut sand_grain, &mut grid, downright);
+            } else {
+                if sand_grain == sand_source {
+                    // Sand source blocked
+                    answer += 1;
+                    break;
+                }
+                
+                sand_grain = sand_source;
+                grid.insert(sand_grain, Cell::Sand);
+                answer += 1;
+            }
         }
-        if sand_grain.1 > max_y {
-            break;
-        }
+
+        
     }
 
-    for y in min_y-10..=max_y+10 {
+    for y in min_y-20..=max_y+10 {
         for x in min_x..=max_x {
             if x == sand_source.0 && y == min_y - 10 {
                 print!("X")
